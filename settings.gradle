@@ -1,0 +1,2 @@
+rootProject.name='Basic Architecture'
+include ':app'
